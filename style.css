@@ -1,0 +1,33 @@
+/* nav */
+.logo {
+  width: 50px;
+  height: auto;
+}
+
+
+/* hero */
+.headshot {
+  display: block;
+  width: 20vw;
+  height: auto;
+  border-radius: 50%;
+  margin: auto;
+}
+
+
+.hero-text {
+  color: white;
+  text-shadow: 2px 2px black, 2px 2px black;
+}
+
+#hero-section {
+  background-image: 
+  url('images/background.jpg');
+  min-height: 600px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 125px 0 0 0;
+  margin-top: 40px;
+}
